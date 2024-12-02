@@ -1,3 +1,5 @@
+"use strict";
+
 /*
     ANSWER: 
     I create small algoritme , which in first step sort array, and after just check element's, which have duplicates.

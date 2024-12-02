@@ -1,3 +1,5 @@
+"use strict";
+
 /*
     ANSWER:
     In this function I use cycle , and count of work this cycle = count dublications of some_arr[].
